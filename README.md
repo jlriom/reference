@@ -17,5 +17,7 @@
 - https://github.com/matthewrenze/clean-architecture-demo
 - https://github.com/KevinDockx/BuildingAsyncAPIAspNetCore
 - https://github.com/ilkerkarimanov/IDDD.Sample
+- https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api
+- https://github.com/damienbod
 
 
