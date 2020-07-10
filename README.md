@@ -30,5 +30,6 @@
 - https://github.com/KevinDockx/OpenIDConnectInDepth
 - https://github.com/KevinDockx/DocumentingAspNetCoreApisWithOpenAPI
 - https://github.com/jlriom/Hands-On-Domain-Driven-Design-with-.NET-Core
+- https://github.com/despos
 
 
