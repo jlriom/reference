@@ -7,6 +7,9 @@
 - https://github.com/DeborahK/Angular-Communication
 - https://github.com/DeborahK/Angular-Routing
 - https://github.com/DeborahK/Angular-NgRx-GettingStarted
+- https://github.com/DanWahlin/angular-architecture
+- https://github.com/cornflourblue/angular-8-basic-authentication-example
+- https://github.com/zaarheed/angular5-starter-multi-module
 
 
 ## c#
@@ -20,6 +23,10 @@
 - https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api
 - https://github.com/damienbod
 - https://github.com/dahlsailrunner/aspnetcore-effective-logging
-- https://github.com/DanWahlin/angular-architecture
+- https://github.com/ThreeMammals/Ocelot
+- https://github.com/ilkerkarimanov/IDDD.Sample
+- https://github.com/PacktPublishing/Building-Microservices-with-.NET-Core-2.0-Second-Edition
+- https://github.com/KevinDockx/OpenIDConnectInDepth
+
 
 
