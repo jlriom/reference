@@ -19,7 +19,6 @@
 - https://github.com/our0pensource/DDDSample.Net
 - https://github.com/SzymonPobiega/DDDSample.Net
 - https://github.com/matthewrenze/clean-architecture-demo
-- https://github.com/KevinDockx/BuildingAsyncAPIAspNetCore
 - https://github.com/ilkerkarimanov/IDDD.Sample
 - https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api
 - https://github.com/damienbod
@@ -27,8 +26,10 @@
 - https://github.com/ThreeMammals/Ocelot
 - https://github.com/ilkerkarimanov/IDDD.Sample
 - https://github.com/PacktPublishing/Building-Microservices-with-.NET-Core-2.0-Second-Edition
+- https://github.com/KevinDockx/BuildingAsyncAPIAspNetCore
 - https://github.com/KevinDockx/OpenIDConnectInDepth
 - https://github.com/KevinDockx/DocumentingAspNetCoreApisWithOpenAPI
+- https://github.com/KevinDockx/AngularASPNetCoreBusinessApplications
 - https://github.com/jlriom/Hands-On-Domain-Driven-Design-with-.NET-Core
 - https://github.com/despos
 
