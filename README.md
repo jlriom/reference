@@ -28,6 +28,7 @@
 - https://github.com/ilkerkarimanov/IDDD.Sample
 - https://github.com/PacktPublishing/Building-Microservices-with-.NET-Core-2.0-Second-Edition
 - https://github.com/KevinDockx/OpenIDConnectInDepth
-
+- https://github.com/KevinDockx/DocumentingAspNetCoreApisWithOpenAPI
+- https://github.com/jlriom/Hands-On-Domain-Driven-Design-with-.NET-Core
 
 
