@@ -35,6 +35,7 @@
 - https://github.com/eventflow/EventFlow
 - https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core
 - https://github.com/eventflow/EventFlow
+- https://github.com/cornflourblue/aspnet-core-basic-authentication-api
 
 
 
