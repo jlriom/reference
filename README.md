@@ -33,6 +33,8 @@
 - https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core
 - https://github.com/despos
 - https://github.com/eventflow/EventFlow
+- https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core
+
 
 
 
