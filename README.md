@@ -34,6 +34,8 @@
 - https://github.com/despos
 - https://github.com/eventflow/EventFlow
 - https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core
+- https://github.com/eventflow/EventFlow
+
 
 
 
