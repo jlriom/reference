@@ -11,6 +11,9 @@
 - https://github.com/cornflourblue/angular-8-basic-authentication-example
 - https://github.com/zaarheed/angular5-starter-multi-module
 - https://github.com/FabianGosebrink/angular-libraries
+- https://github.com/DanWahlin/Angular-Core-Concepts
+- https://github.com/DanWahlin/Angular-Docker-Microservices
+
 
 
 ## c#
