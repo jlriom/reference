@@ -41,6 +41,9 @@
 - https://github.com/VaughnVernon/IDDD_Samples_NET
 - https://github.com/vkhorikov/DddAndEFCore
 - https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api
+- https://github.com/ivanpaulovich/clean-architecture-webapi-ef-core
+- https://paulovich.net/
+- https://github.com/ivanpaulovich/hexagonal-architecture-acerola
 
 
 
