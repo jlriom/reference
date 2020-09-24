@@ -44,6 +44,7 @@
 - https://github.com/ivanpaulovich/clean-architecture-webapi-ef-core
 - https://paulovich.net/
 - https://github.com/ivanpaulovich/hexagonal-architecture-acerola
+- https://github.com/Apress/modern-api-design-w-asp.net-core-2
 
 
 
