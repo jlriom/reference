@@ -47,6 +47,7 @@
 - https://github.com/Apress/modern-api-design-w-asp.net-core-2
 - https://github.com/ivaylokenov/Architecture-of-ASP.NET-Core-Microservices-Applications
 - https://github.com/alico/pubsubdemo
+- https://github.com/RickStrahl/AspNetCoreRawRequestSample
 
 
 
