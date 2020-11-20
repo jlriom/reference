@@ -11,6 +11,7 @@
 - https://github.com/DeborahK/Angular-NgRx-GettingStarted
 - https://github.com/DeborahK/Angular-ReactiveForms
 - https://github.com/DeborahK/Angular-Routing
+- https://github.com/DeborahK/Angular-RxJS
 - https://github.com/FabianGosebrink/angular-libraries
 - https://github.com/zaarheed/angular5-starter-multi-module
 
