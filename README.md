@@ -34,6 +34,12 @@
 - https://github.com/KevinDockx/TestingWithEFCore
 - https://github.com/matthewrenze/clean-architecture-demo
 - https://github.com/our0pensource/DDDSample.Net
+
+
+
+Hands-On Design Patterns with C# and .NET Core
+
+
 - https://github.com/PacktPublishing/Building-Microservices-with-.NET-Core-2.0-Second-Edition
 - https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core
 - https://github.com/psauthor/MeterReader
