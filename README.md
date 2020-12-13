@@ -52,3 +52,7 @@
 - https://automationstepbystep.com/online-courses/
 - https://github.com/thombergs/buckpal
 
+
+## Azure
+- https://github.com/Azure-Samples
+
