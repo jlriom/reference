@@ -14,7 +14,7 @@
 - https://github.com/DeborahK/Angular-RxJS
 - https://github.com/FabianGosebrink/angular-libraries
 - https://github.com/zaarheed/angular5-starter-multi-module
-- https://github.com/TryCatchLearn/DatingApp30
+- https://github.com/TryCatchLearn/DatingApp
 
 
 
