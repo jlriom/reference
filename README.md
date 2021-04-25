@@ -52,6 +52,8 @@
 - https://automationstepbystep.com/online-courses/
 - https://github.com/thombergs/buckpal
 
+## Arch 
+- https://docs.aws.amazon.com/wellarchitected/latest/framework/introduction.html
 
 ## Azure
 - https://github.com/Azure-Samples
