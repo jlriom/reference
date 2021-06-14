@@ -65,6 +65,7 @@
 ## Microservices
 - https://microservices.io/
 - https://github.com/StephenGrider/microservices-casts
+- https://github.com/madslundt/NetCoreMicroservicesSample
 
 ## Doc reference
 - https://github.com/jorgevgut/airquality-mx
