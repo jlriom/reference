@@ -54,6 +54,7 @@
 
 ## Arch 
 - https://docs.aws.amazon.com/wellarchitected/latest/framework/introduction.html
+- https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
 
 ## Azure
 - https://github.com/Azure-Samples
