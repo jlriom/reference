@@ -53,10 +53,12 @@
 - https://github.com/thombergs/buckpal
 - https://github.com/Cysharp/MagicOnion/
 - https://github.com/dotnet/BenchmarkDotNet
+- https://medium.com/code-factory-berlin/asp-net-core-hosting-345978085e3f
 
 ## Arch 
 - https://docs.aws.amazon.com/wellarchitected/latest/framework/introduction.html
 - https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
+- https://azeynalli1990.medium.com/software-architecture-cheat-sheet-for-daily-usage-9923922ea75b
 
 ## Azure
 - https://github.com/Azure-Samples
@@ -79,3 +81,7 @@
 
 ## Career Roadmaps
 - https://roadmap.sh/
+
+## Testing
+- https://medium.com/technology-earnin/thorough-testing-of-asp-net-core-or-any-web-api-a87bd0585f9b
+- 
