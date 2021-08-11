@@ -72,6 +72,7 @@
 - https://tech.winton.com/2016/12/configuring-net-core-applications-using-consul/
 - https://www.michaco.net/blog/ServiceDiscoveryAndHealthChecksInAspNetCoreWithConsul
 - https://seankearon.me/posts/2020/12/rebus-sagas-csharp/
+- https://github.com/Cysharp/MessagePipe
 
 ## Doc reference
 - https://github.com/jorgevgut/airquality-mx
