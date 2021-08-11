@@ -15,7 +15,7 @@
 - https://github.com/FabianGosebrink/angular-libraries
 - https://github.com/zaarheed/angular5-starter-multi-module
 - https://github.com/TryCatchLearn/DatingApp
-
+- https://www.angularjswiki.com/
 
 
 ## c#
@@ -51,6 +51,8 @@
 - https://github.com/RickStrahl/AspNetCoreRawRequestSample
 - https://automationstepbystep.com/online-courses/
 - https://github.com/thombergs/buckpal
+- https://github.com/Cysharp/MagicOnion/
+- https://github.com/dotnet/BenchmarkDotNet
 
 ## Arch 
 - https://docs.aws.amazon.com/wellarchitected/latest/framework/introduction.html
@@ -67,6 +69,9 @@
 - https://microservices.io/
 - https://github.com/StephenGrider/microservices-casts
 - https://github.com/madslundt/NetCoreMicroservicesSample
+- https://tech.winton.com/2016/12/configuring-net-core-applications-using-consul/
+- https://www.michaco.net/blog/ServiceDiscoveryAndHealthChecksInAspNetCoreWithConsul
+- https://seankearon.me/posts/2020/12/rebus-sagas-csharp/
 
 ## Doc reference
 - https://github.com/jorgevgut/airquality-mx
