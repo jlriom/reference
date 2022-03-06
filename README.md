@@ -57,11 +57,18 @@
 - https://medium.com/code-factory-berlin/asp-net-core-hosting-345978085e3f
 - https://github.com/damienbod/AspNetCoreServiceBus
 - https://github.com/TryCatchLearn/DatingApp
+- https://blog.devgenius.io/advanced-c-custom-workflow-engine-a52ba44bb2c4
 
 ## Arch 
 - https://docs.aws.amazon.com/wellarchitected/latest/framework/introduction.html
 - https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
 - https://azeynalli1990.medium.com/software-architecture-cheat-sheet-for-daily-usage-9923922ea75b
+- https://medium.com/news-uk-technology/c4-model-a-better-way-to-visualise-software-architecture-df41e5ac57b8
+- https://medium.com/software-architecture-foundations/software-architecture-modeling-with-c4-model-e9e61d952121
+- https://nazeel-ak.medium.com/domain-driven-design-to-design-micoservices-e1efe16ad869
+- https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2
+- https://medium.com/@learncsdesign/microservices-design-patterns-91fe56a33a47
+- https://medium.com/@boomimagestudio-techblog/4-advantages-of-hexagonal-architecture-7a8bb1940dba
 
 ## Azure
 - https://github.com/Azure-Samples
@@ -88,4 +95,3 @@
 
 ## Testing
 - https://medium.com/technology-earnin/thorough-testing-of-asp-net-core-or-any-web-api-a87bd0585f9b
-- 
