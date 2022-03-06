@@ -16,6 +16,7 @@
 - https://github.com/zaarheed/angular5-starter-multi-module
 - https://github.com/TryCatchLearn/DatingApp
 - https://www.angularjswiki.com/
+- https://github.com/laurieatkinson/ng-patterns-demo
 
 
 ## c#
@@ -54,6 +55,8 @@
 - https://github.com/Cysharp/MagicOnion/
 - https://github.com/dotnet/BenchmarkDotNet
 - https://medium.com/code-factory-berlin/asp-net-core-hosting-345978085e3f
+- https://github.com/damienbod/AspNetCoreServiceBus
+- https://github.com/TryCatchLearn/DatingApp
 
 ## Arch 
 - https://docs.aws.amazon.com/wellarchitected/latest/framework/introduction.html
@@ -81,6 +84,7 @@
 
 ## Career Roadmaps
 - https://roadmap.sh/
+- https://github.com/kamranahmedse/developer-roadmap
 
 ## Testing
 - https://medium.com/technology-earnin/thorough-testing-of-asp-net-core-or-any-web-api-a87bd0585f9b
