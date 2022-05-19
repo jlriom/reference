@@ -69,6 +69,7 @@
 - https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2
 - https://medium.com/@learncsdesign/microservices-design-patterns-91fe56a33a47
 - https://medium.com/@boomimagestudio-techblog/4-advantages-of-hexagonal-architecture-7a8bb1940dba
+- https://www.netmentor.es/
 
 ## Azure
 - https://github.com/Azure-Samples
