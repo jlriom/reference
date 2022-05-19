@@ -58,6 +58,7 @@
 - https://github.com/damienbod/AspNetCoreServiceBus
 - https://github.com/TryCatchLearn/DatingApp
 - https://blog.devgenius.io/advanced-c-custom-workflow-engine-a52ba44bb2c4
+- https://dev.to/andrewchaa/mocking-cosmos-container-method-for-unit-testing-4kcc
 
 ## Arch 
 - https://docs.aws.amazon.com/wellarchitected/latest/framework/introduction.html
