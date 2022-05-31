@@ -21,6 +21,7 @@
 
 ## c#
 
+- https://fullstackhero.net/
 - https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core
 - https://github.com/cornflourblue/aspnet-core-basic-authentication-api
 - https://github.com/dahlsailrunner/aspnetcore-effective-logging
